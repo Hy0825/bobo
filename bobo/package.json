@@ -2,7 +2,7 @@
   "name": "bobo",
   "version": "1.0.0",
   "description": "y",
-  "author": "Hy",
+  "author": "Hy(445876414@qq.com)",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
