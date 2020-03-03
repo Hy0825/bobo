@@ -16,7 +16,7 @@
     "api": "node src/api/index"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.19.2",
     "body-parser": "^1.18.2",
     "element-ui": "^2.4.6",
     "js-base64": "^2.4.0",
